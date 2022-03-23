@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=180&section=header&text=Seo-yul%20Yoon&animation=twinkling&fontSize=70)
+![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=DCD3D3) <br />
 ## Class SRE Implements DevOps.
 
 <span>
