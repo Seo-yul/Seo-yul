@@ -28,7 +28,7 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=DCD3D3) <br />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seo-yul&layout=compact&theme=radical&langs_count=4" align="left" style="width: 40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seo-yul&layout=compact&theme=radical&hide=html,css&size_weight=0.5&count_weight=0.5" align="left" style="width: 40%" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=seo-yul&count_private=true&theme=radical" align="left" style="width: 40%" />
 <!--
 **Seo-yul/Seo-yul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
