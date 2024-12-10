@@ -5,21 +5,23 @@
 <span>
   <h4>💡 Use </h3>
   <div>
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=AmazonAWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=Kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=Kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=plastic&logo=yaml&logoColor=151515" />
   </div>
 </span>
 
 <span>
-  <h4>📚 To do </h3>
+  <h4>🌱 Tools </h3>
   <div>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=plastic&logo=datadog&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=plastic&logo=opentelemetry&logoColor=black" />
     <img src="https://img.shields.io/badge/ElasticSearch-005571?style=plastic&logo=ElasticSearch&logoColor=white" />
     <img src="https://img.shields.io/badge/LogStash-005571?style=plastic&logo=LogStash&logoColor=white" />
     <img src="https://img.shields.io/badge/Kibana-005571?style=plastic&logo=Kibana&logoColor=white" />
+    <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white" />
   </div>
 </span>
 
