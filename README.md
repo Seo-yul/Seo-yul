@@ -39,7 +39,8 @@
 
 **AXMP AI Agent Studio**
 - MCP Server 관리 오퍼레이터 개발
-- Legacy API FAST MCP 전환 도구 배포 및 Public MCP 내재화 개발 
+- Legacy API FAST MCP 전환 도구 배포 및 Public MCP 내재화 개발
+  
 **Modernization Platform API Management (APIM)**
 - Kubernetes 네이티브 게이트웨이 및 API 관리 서비스 플랫폼 개발
 - API 공개 포털, 사용 승인, 등록, 권한 관리 시스템 구축
