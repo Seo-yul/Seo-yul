@@ -1,17 +1,17 @@
-# 윤서율 👋
+# Yoon Seoyul 👋
 
-> **클라우드 네이티브 환경 속에서의 지속 가능한 개발을 추구하는 엔지니어**
+> **An engineer pursuing sustainable development in cloud native environments**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoon-seoyul)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seoyul@devops.ai.kr)
 
 ## 🚀 Profile
 
-- **직책**: SK Inc. AX 클라우드 애플리케이션 엔지니어
-- **주요 역할**: 옵저버빌리티 확보와 생산성 증가를 위한 애플리케이션 개발
-- **기술 커뮤니티**: [Cloud Native Community Korea](https://community.cncf.io/cloud-native-community-korea/) | [Slack](https://cloud-native.slack.com/channels/cncf-korea-community)
-- **오픈소스**: [Kubernetes Organization (KR Rank 17)](https://k8s.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20decade&var-metric=contributions&var-repogroup_name=All&var-repo_name=kubernetes%2Fkubernetes&var-country_name=Korea%20Republic%20of&var-companies=All)
-- **전문 분야**: 클라우드 네이티브 아키텍처, Cloud 관리 플랫폼 개발(Kubernetes Operator, API 게이트웨이, DevOps 자동화)
+- **Position**: SK Inc. AX Cloud Application Engineer
+- **Primary Role**: Application development for achieving observability and increasing productivity
+- **Tech Community**: [Cloud Native Community Korea](https://community.cncf.io/cloud-native-community-korea/) | [Slack](https://cloud-native.slack.com/channels/cncf-korea-community)
+- **Open Source**: [Kubernetes Organization (KR Rank 17)](https://k8s.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20decade&var-metric=contributions&var-repogroup_name=All&var-repo_name=kubernetes%2Fkubernetes&var-country_name=Korea%20Republic%20of&var-companies=All)
+- **Specialization**: Cloud native architecture, Cloud management platform development (Kubernetes Operator, API Gateway, DevOps automation)
 
 ## 🛠 Tech Stack
 
@@ -34,40 +34,40 @@
 ## 💼 Project
 
 **AXMP AI Agent Studio**
-- MCP Server Builder 오퍼레이터 개발
-- OpenAPI 기반 MCP 전환 Fast API 개발
-- Repository-Adapter Pattern 설계
-  
+- MCP Server Builder operator development
+- FastAPI development for OpenAPI-to-MCP conversion
+- Repository-Adapter Pattern architecture
+
 **Modernization Platform API Management (APIM)**
-- Kubernetes 네이티브 게이트웨이 및 API 관리 서비스 플랫폼 개발
-- API 공개 포털, 사용 승인, 등록, 권한 관리 시스템 구축
-- API 로깅, 모니터링, 보안, 유량제어 솔루션 설계
+- Kubernetes native gateway and API management service platform development
+- API public portal, usage approval, registration, and permission management system development
+- API logging, monitoring, security, and traffic control solution architecture
 
 ### Key Achievements
-- **배포 효율성**: Helm 패키징으로 딜리버리 소요 기간 3일 → 1일 단축
-- **성능 최적화**: 멀티 아키텍처 빌드 지원으로 프론트엔드 배포 시간 60% 단축 (30m → 10m)
-- **인프라 자동화**: CI/CD 파이프라인 구축, Blue-Green 배포 자동화 구현
-- **모니터링**: 쿠버네티스 리소스 관리 오퍼레이터 및 멀티 클러스터 환경 쿠버네티스 메트릭 수집 API 개발
-- **성능 개선**: Event receiver 기술 스택 Java → Go 변경으로 지연 및 OOM 제거
-- **비용 최적화**: Scheduled Auto Scale, ARM 아키텍처 적용
+- **Deployment Efficiency**: Reduced delivery lead time from 3 days to 1 day with Helm packaging
+- **Performance Optimization**: Reduced frontend deployment time by 60% (30m → 10m) with multi-architecture build support
+- **Infrastructure Automation**: Built CI/CD pipelines and implemented Blue-Green deployment automation
+- **Monitoring**: Developed Kubernetes resource management operator and multi-cluster Kubernetes metrics aggregation API
+- **Performance Improvement**: Resolved latency issues and OOM errors by migrating event receiver tech stack from Java to Go
+- **Cost Optimization**: Adopted Scheduled Auto Scaling and ARM architecture
 
 ## 🌟 Community Activities
 
 ### Leadership Positions
-- **Cloud Native Community Korea** (2026~ ) - 커뮤니티 운영 총괄 오거나이저
-- **Kubernetes Organization Member** (2022~ 2025) - 국내 쿠버네티스 전체 누적 PR 순위 17위
-- **NAVER Cloud Platform Tech Ambassador** (2023~ 2026.02) - 기술 커뮤니티 운영 및 오프라인 모임 주도
-- **GopherCon Korea 2023, 2024 Organizer** - 한국 최초 Golang 컨퍼런스 개최 운영, 스폰서쉽 관리
-- **OpenInfra Community Days Korea 2023 Organizer** - 10주년 기념 행사 운영, 이벤트 굿즈 기획
+- **Cloud Native Community Korea** (2026~ ) - Lead organizer overseeing community operations
+- **Kubernetes Organization Member** (2022~ 2025) - Ranked 17th in total PR contributions in Korea
+- **NAVER Cloud Platform Tech Ambassador** (2023~ 2026.02) - Led tech community operations and offline meetups
+- **GopherCon Korea 2023, 2024 Organizer** - Organized Korea's first Golang conference, managed sponsorships
+- **OpenInfra Community Days Korea 2023 Organizer** - Organized the 10th anniversary event, planned event merchandise
 
 ### Speaking Engagements
-- **Datadog Korea User Group** (2025.02)  
-  "MSA 환경에서의 로그 기반 API 관리 전략과 게이트웨이 활용"
-- **AWS Korea User Group #architecture** (2022.06)  
-  "인프라 벤치마크 테스트 마스터하기"
+- **Datadog Korea User Group** (2025.02)
+  "Log-based API Management Strategy and Gateway Integration in MSA Environments"
+- **AWS Korea User Group #architecture** (2022.06)
+  "Mastering Infrastructure Benchmark Testing"
 
 ### Recognition
-- **2022 Open Source Contribution Academy** 리드 멘티 - 정보통신산업진흥원장상 수상
+- **2022 Open Source Contribution Academy** Lead Mentee - Awarded the NIPA Director's Prize
 
 ## 📜 Certifications
 
@@ -89,13 +89,13 @@
 
 ## 🎯 Engineering Philosophy
 
-> "지속 가능한 개발과 오픈소스 기여를 통한 공동 성장"
+> "Mutual growth through sustainable development and open source contribution"
 
-- **개발 동기**: 친구 애완견 원격 급식 프로젝트에서 시작된 IT 엔지니어 성장 결심
-- **해외 경험**: 일본 근무 및 베트남 협업을 통한 커뮤니케이션 중요성 체득
-- **오픈소스 철학**: 소통을 통한 즐거움이 성장의 원동력
-- **기술 기여**: 글로벌 오픈소스 생태계 발전 및 국내 기술 접근성 향상
+- **Motivation**: A determination to grow as an IT engineer that started from a remote pet feeding project for a friend's dog
+- **International Experience**: Learned the importance of communication through working in Japan and collaborating with teams in Vietnam
+- **Open Source Philosophy**: The joy of communication is the driving force of growth
+- **Technical Contribution**: Advancing the global open source ecosystem and improving tech accessibility in Korea
 
 ---
 
-💬 **Contact**: 오픈소스 기여, [커뮤니티 협업](mailto:seoyul@devops.ai.kr) 환영
+💬 **Contact**: Open source contributions and [community collaboration](mailto:seoyul@devops.ai.kr) are welcome
