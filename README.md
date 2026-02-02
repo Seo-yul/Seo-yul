@@ -11,7 +11,7 @@
 - **직책**: SK Inc. AX 클라우드 애플리케이션 엔지니어
 - **주요 역할**: 옵저버빌리티 확보와 생산성 증가를 위한 애플리케이션 개발
 - **기술 커뮤니티**: [Cloud Native Community Korea](https://community.cncf.io/cloud-native-community-korea/) | [Slack](https://cloud-native.slack.com/channels/cncf-korea-community)
-- **오픈소스**: Kubernetes Organization (KR Rank 17)
+- **오픈소스**: [Kubernetes Organization (KR Rank 17)](https://k8s.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20decade&var-metric=contributions&var-repogroup_name=All&var-repo_name=kubernetes%2Fkubernetes&var-country_name=Korea%20Republic%20of&var-companies=All)
 - **전문 분야**: 클라우드 네이티브 아키텍처, Cloud 관리 플랫폼 개발(Kubernetes Operator, API 게이트웨이, DevOps 자동화)
 
 ## 🛠 Tech Stack
