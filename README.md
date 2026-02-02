@@ -1,9 +1,9 @@
-# Yoon Seoyul 👋
+# Seoyul Yoon👋
 
 > **An engineer pursuing sustainable development in cloud native environments**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoon-seoyul)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seoyul@devops.ai.kr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoon-seoyul)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seoyul@devops.ai.kr)
 
 ## 🚀 Profile
 
@@ -16,20 +16,16 @@
 ## 🛠 Tech Stack
 
 ### Core Technologies
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes,go,python,langchain" />
+</p>
 
-### Observability & Monitoring
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-![Fluent Bit](https://img.shields.io/badge/Fluent_Bit-49BDA5?style=flat-square&logo=fluentbit&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-
-### Languages & Frameworks
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### Skills & Experience
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" />
+  <img src="./assets/fluent-bit.png" alt="Fluent Bit" height="53" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=opentelemetry,prometheus,grafana,datadog,terraform" />
+</p>
 
 ## 💼 Project
 
