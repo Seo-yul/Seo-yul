@@ -1,6 +1,6 @@
 # 윤서율 👋
 
-> **클라우드 네이티브 환경 지속 가능한 개발 엔지니어**
+> **클라우드 네이티브 환경 속에서의 지속 가능한 개발을 추구하는 엔지니어**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoon-seoyul)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devops.reso@gmail.com)
@@ -10,7 +10,7 @@
 
 - **직책**: SK Inc. AX 클라우드 애플리케이션 엔지니어
 - **주요 역할**: 옵저버빌리티 확보와 생산성 증가를 위한 애플리케이션 개발
-- **기술 커뮤니티**: NAVER Cloud Platform Tech Ambassador
+- **기술 커뮤니티**: [Cloud Native Community Korea](https://community.cncf.io/cloud-native-community-korea/) | [Slack](https://cloud-native.slack.com/channels/cncf-korea-community)
 - **오픈소스**: Kubernetes Organization (KR Rank 17)
 - **전문 분야**: 클라우드 네이티브 아키텍처, Cloud 관리 플랫폼 개발(Kubernetes Operator, API 게이트웨이, DevOps 자동화)
 
@@ -23,7 +23,7 @@
 
 ### Observability & Monitoring
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-![Fluent Bit](https://img.shields.io/badge/Fluent_Bit-49BDA5?style=flat-square&logo=fluentd&logoColor=white)
+![Fluent Bit](https://img.shields.io/badge/Fluent_Bit-49BDA5?style=flat-square&logo=fluentbit&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
@@ -32,11 +32,12 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 💼 Current Project
+## 💼 Project
 
 **AXMP AI Agent Studio**
-- MCP Server 관리 오퍼레이터 개발
-- Legacy API FAST MCP 전환 도구 배포 및 Public MCP 내재화 개발
+- MCP Server Builder 오퍼레이터 개발
+- OpenAPI 기반 MCP 전환 Fast API 개발
+- Repository-Adapter Pattern 설계
   
 **Modernization Platform API Management (APIM)**
 - Kubernetes 네이티브 게이트웨이 및 API 관리 서비스 플랫폼 개발
@@ -54,8 +55,9 @@
 ## 🌟 Community Activities
 
 ### Leadership Positions
+- **Cloud Native Community Korea** (2026~ ) - 커뮤니티 운영 총괄 오거나이저
 - **Kubernetes Organization Member** (2022~ 2025) - 국내 쿠버네티스 전체 누적 PR 순위 17위
-- **NAVER Cloud Platform Tech Ambassador** (2023~ ) - 기술 커뮤니티 운영 및 오프라인 모임 주도
+- **NAVER Cloud Platform Tech Ambassador** (2023~ 2026.02) - 기술 커뮤니티 운영 및 오프라인 모임 주도
 - **GopherCon Korea 2023, 2024 Organizer** - 한국 최초 Golang 컨퍼런스 개최 운영, 스폰서쉽 관리
 - **OpenInfra Community Days Korea 2023 Organizer** - 10주년 기념 행사 운영, 이벤트 굿즈 기획
 
@@ -84,7 +86,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=seo-yul&count_private=true&theme=radical")
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=seo-yul&count_private=true)
 
 ## 🎯 Engineering Philosophy
 
@@ -97,4 +99,4 @@
 
 ---
 
-💬 **Contact**: 기술 토론, 오픈소스 기여, 커뮤니티 협업 환영
+💬 **Contact**: 오픈소스 기여, [커뮤니티 협업](mailto:seoyul@devops.ai.kr) 환영
