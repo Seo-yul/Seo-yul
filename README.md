@@ -16,9 +16,9 @@
 ## 📊 CNCF DevStats!
 
 <!-- DEVSTATS_START -->
-[![Contributions](https://img.shields.io/badge/contributions-272-blue?style=for-the-badge&logo=kubernetes&logoColor=white)](https://devstats.cncf.io/)
-[![Issues](https://img.shields.io/badge/issues-21-green?style=for-the-badge&logo=kubernetes&logoColor=white)](https://devstats.cncf.io/)
-[![PRs](https://img.shields.io/badge/prs-28-orange?style=for-the-badge&logo=kubernetes&logoColor=white)](https://devstats.cncf.io/)
+[![Contributions](https://img.shields.io/badge/contributions-272-blue?style=for-the-badge&logo=kubernetes&logoColor=white)](https://devstats.cluster.fun/?user=seo-yul)
+[![Issues](https://img.shields.io/badge/issues-21-green?style=for-the-badge&logo=kubernetes&logoColor=white)](https://devstats.cluster.fun/?user=seo-yul)
+[![PRs](https://img.shields.io/badge/prs-28-orange?style=for-the-badge&logo=kubernetes&logoColor=white)](https://devstats.cluster.fun/?user=seo-yul)
 <!-- DEVSTATS_END -->
 
 ## 🛠 Tech Stack
