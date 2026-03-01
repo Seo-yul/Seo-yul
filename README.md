@@ -10,7 +10,7 @@
 - **Position**: SK Inc. AX Cloud Application Engineer
 - **Primary Role**: Application development for achieving observability and increasing productivity
 - **Tech Community**: [Cloud Native Community Korea](https://community.cncf.io/cloud-native-community-korea/) | [Slack](https://cloud-native.slack.com/channels/cncf-korea-community)
-- **Open Source**: [Kubernetes Organization (KR Rank 17)](https://k8s.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20decade&var-metric=contributions&var-repogroup_name=All&var-repo_name=kubernetes%2Fkubernetes&var-country_name=Korea%20Republic%20of&var-companies=All)
+- **Open Source**: Kubernetes (SIG DOCS) [DevStats](https://devstats.cluster.fun/?user=seo-yul)
 - **Specialization**: Cloud native architecture, Cloud management platform development (Kubernetes Operator, API Gateway, DevOps automation)
 
 ## 🛠 Tech Stack
@@ -51,7 +51,7 @@
 
 ### Leadership Positions
 - **Cloud Native Community Korea** (2026~ ) - Lead organizer overseeing community operations
-- **Kubernetes Organization Member** (2022~ 2025) - Ranked 17th in total PR contributions in Korea
+- **Kubernetes Organization Member** (2022~ 2025) - SIG DOCS Korean localization contributor
 - **NAVER Cloud Platform Tech Ambassador** (2023~ 2026.02) - Led tech community operations and offline meetups
 - **GopherCon Korea 2023, 2024 Organizer** - Organized Korea's first Golang conference, managed sponsorships
 - **OpenInfra Community Days Korea 2023 Organizer** - Organized the 10th anniversary event, planned event merchandise
