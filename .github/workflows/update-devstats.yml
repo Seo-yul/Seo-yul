@@ -1,0 +1,65 @@
+name: Update CNCF DevStats
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+
+jobs:
+  update-devstats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch DevStats
+        id: devstats
+        run: |
+          RESPONSE=$(curl -s -X POST https://devstats.cncf.io/api/v1 \
+            -H "Content-Type: application/json" \
+            -d '{"api":"GithubIDContributions","payload":{"github_id":"seo-yul"}}')
+          echo "contributions=$(echo "$RESPONSE" | jq -r '.contributions')" >> "$GITHUB_OUTPUT"
+          echo "issues=$(echo "$RESPONSE" | jq -r '.issues')" >> "$GITHUB_OUTPUT"
+          echo "prs=$(echo "$RESPONSE" | jq -r '.prs')" >> "$GITHUB_OUTPUT"
+
+      - name: Update README
+        env:
+          CONTRIBS: ${{ steps.devstats.outputs.contributions }}
+          ISSUES: ${{ steps.devstats.outputs.issues }}
+          PRS: ${{ steps.devstats.outputs.prs }}
+        run: |
+          python3 << 'PYEOF'
+          import re, os
+          contribs = os.environ["CONTRIBS"]
+          issues = os.environ["ISSUES"]
+          prs = os.environ["PRS"]
+          base = "https://devstats.cluster.fun/?user=seo-yul"
+          new_badges = "\n".join([
+              "<!-- DEVSTATS_START -->",
+              f"[![Contributions](https://img.shields.io/badge/contributions-{contribs}-blue?style=for-the-badge&logo=kubernetes&logoColor=white)]({base})",
+              f"[![Issues](https://img.shields.io/badge/issues-{issues}-green?style=for-the-badge&logo=kubernetes&logoColor=white)]({base})",
+              f"[![PRs](https://img.shields.io/badge/prs-{prs}-orange?style=for-the-badge&logo=kubernetes&logoColor=white)]({base})",
+              "<!-- DEVSTATS_END -->",
+          ])
+          with open("README.md", "r") as f:
+              content = f.read()
+          content = re.sub(
+              r"<!-- DEVSTATS_START -->.*?<!-- DEVSTATS_END -->",
+              new_badges,
+              content,
+              flags=re.DOTALL,
+          )
+          with open("README.md", "w") as f:
+              f.write(content)
+          PYEOF
+
+      - name: Commit changes
+        run: |
+          git diff --quiet README.md || {
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update CNCF DevStats badges"
+            git push
+          }

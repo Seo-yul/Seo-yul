@@ -13,6 +13,14 @@
 - **Open Source**: Kubernetes (SIG DOCS) [DevStats](https://devstats.cluster.fun/?user=seo-yul)
 - **Specialization**: Cloud native architecture, Cloud management platform development (Kubernetes Operator, API Gateway, DevOps automation)
 
+## 📊 CNCF DevStats!
+
+<!-- DEVSTATS_START -->
+[![Contributions](https://img.shields.io/badge/contributions-272-blue?style=for-the-badge&logo=kubernetes&logoColor=white)](https://devstats.cncf.io/)
+[![Issues](https://img.shields.io/badge/issues-21-green?style=for-the-badge&logo=kubernetes&logoColor=white)](https://devstats.cncf.io/)
+[![PRs](https://img.shields.io/badge/prs-28-orange?style=for-the-badge&logo=kubernetes&logoColor=white)](https://devstats.cncf.io/)
+<!-- DEVSTATS_END -->
+
 ## 🛠 Tech Stack
 
 ### Core Technologies
@@ -79,10 +87,6 @@
 - **AWS Certified SysOps Administrator: Associate** (2024)
 - **AWS Certified Developer: Associate** (2023)
 - **AWS Certified Solutions Architect: Associate** (2022)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=seo-yul&count_private=true)
 
 ## 🎯 Engineering Philosophy
 
