@@ -68,6 +68,7 @@
 ## 📜 Certifications
 
 ### Kubernetes & Cloud Native
+- **CKS**: Certified Kubernetes Security Specialist (2026)
 - **KCSA**: Kubernetes and Cloud Native Security Associate (2025)
 - **KCNA**: Kubernetes and Cloud Native Associate (2024)
 - **CKAD**: Certified Kubernetes Application Developer (2024)
