@@ -1,6 +1,6 @@
 # Seoyul Yoon👋
 
-> **An engineer pursuing sustainable development in cloud native environments**
+> **A cloud-native engineer who learns from the community and proves it in production.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoon-seoyul)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seoyul@devops.ai.kr)
@@ -58,15 +58,15 @@
 ## 🌟 Community Activities
 
 ### Leadership Positions
-- **Cloud Native Community Korea** (2026~ ) - Lead organizer overseeing community operations
+- **Cloud Native Community Korea** (2026~ ) - Head of Community Ops & Organizer
 - **Kubernetes Organization Member** (2022~ 2025) - SIG DOCS Korean localization contributor
 - **NAVER Cloud Platform Tech Ambassador** (2023~ 2026.02) - Led tech community operations and offline meetups
 - **GopherCon Korea 2023, 2024 Organizer** - Organized Korea's first Golang conference, managed sponsorships
-- **OpenInfra Community Days Korea 2023 Organizer** - Organized the 10th anniversary event, planned event merchandise
+- **KCD Korea 2023 Organizer** - Committee (Swag Planning)
 
 ### Speaking Engagements
 - **Datadog Korea User Group** (2025.02)
-  "Log-based API Management Strategy and Gateway Integration in MSA Environments"
+  "Log-Based API Management Strategies and Gateway Utilization in MSA"
 - **AWS Korea User Group #architecture** (2022.06)
   "Mastering Infrastructure Benchmark Testing"
 
@@ -76,6 +76,7 @@
 ## 📜 Certifications
 
 ### Kubernetes & Cloud Native
+- **Kubestronaut** (2026)
 - **CKS**: Certified Kubernetes Security Specialist (2026)
 - **KCSA**: Kubernetes and Cloud Native Security Associate (2025)
 - **KCNA**: Kubernetes and Cloud Native Associate (2024)
