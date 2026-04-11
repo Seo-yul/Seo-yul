@@ -7,7 +7,7 @@
 
 ## 🚀 Profile
 
-- **Position**: SK Inc. AX Cloud Application Engineer
+- **Position**: SK Inc. AX Cloud AI Software Engineer
 - **Primary Role**: Application development for achieving observability and increasing productivity
 - **Tech Community**: [Cloud Native Community Korea](https://community.cncf.io/cloud-native-community-korea/) | [Slack](https://cloud-native.slack.com/channels/cncf-korea-community)
 - **Open Source**: Kubernetes (SIG DOCS) [DevStats](https://devstats.cluster.fun/?user=seo-yul)
