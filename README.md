@@ -13,6 +13,13 @@
 - **Open Source**: Kubernetes (SIG DOCS) [DevStats](https://devstats.cluster.fun/?user=seo-yul)
 - **Specialization**: Cloud native architecture, Cloud management platform development (Kubernetes Operator, API Gateway, DevOps automation)
 
+<a href="https://certdirectory.io/profile/seoyul?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/seoyul.svg?style=card&theme=dark">
+    <img alt="SEOYUL YOON on CertDirectory" src="https://certdirectory.io/badge/seoyul.svg?style=card">
+  </picture>
+</a>
+
 ## 📊 CNCF DevStats!
 
 <!-- DEVSTATS_START -->
@@ -72,22 +79,6 @@
 
 ### Recognition
 - **2022 Open Source Contribution Academy** Lead Mentee - Awarded the NIPA Director's Prize
-
-## 📜 Certifications
-
-### Kubernetes & Cloud Native
-- **Kubestronaut** (2026)
-- **CKS**: Certified Kubernetes Security Specialist (2026)
-- **KCSA**: Kubernetes and Cloud Native Security Associate (2025)
-- **KCNA**: Kubernetes and Cloud Native Associate (2024)
-- **CKAD**: Certified Kubernetes Application Developer (2024)
-- **CKA**: Certified Kubernetes Administrator (2023)
-
-### AWS
-- **AWS Certified Data Engineer – Associate** (2024)
-- **AWS Certified SysOps Administrator: Associate** (2024)
-- **AWS Certified Developer: Associate** (2023)
-- **AWS Certified Solutions Architect: Associate** (2022)
 
 ## 🎯 Engineering Philosophy
 
